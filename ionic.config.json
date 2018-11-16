@@ -1,0 +1,7 @@
+{
+  "name": "iris_EjercicioNGFOR",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
